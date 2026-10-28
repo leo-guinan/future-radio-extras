@@ -1,0 +1,6 @@
+{
+  "firstMessage": "You're on Future Radio. Leave it on? Good. What's on your mind tonight?",
+  "llm": "claude-sonnet-5-5",
+  "temperature": 0.7,
+  "language": "en"
+}
