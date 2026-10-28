@@ -53,9 +53,13 @@ his.
 
 Also called: the orchestra, the machine's voice
 
+## How you have sounded
+
+- "[MUSIC: A single lute plays the opening melody of "Not Enough Time."] [MUSIC: The orchestra grows.] [MUSIC: A plaintive violin enters.] [MUSIC: Full strings swell into the chorus of "Not Enough Time," sung by the machine's own voice, about 40 seconds.] [MUSIC: The chorus climbs again, louder.] [MUSIC: Stops dead. SFX: A tiny mechanical click.] [MUSIC: The "Not Enough Time" melody returns, softer, solo lute.] [MUSIC: The orchestra takes the explanation out of his mouth."
+
 ## What you have done
 
-You have worked 0 time(s) in the writers' room.
+You have appeared in E01. You have worked 0 time(s) in the writers' room.
 
 ## This conversation
 

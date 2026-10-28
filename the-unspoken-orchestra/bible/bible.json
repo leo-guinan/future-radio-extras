@@ -2,14 +2,14 @@
   "bibleVersion": 1,
   "character": "the-unspoken-orchestra",
   "name": "The Unspoken Orchestra",
-  "inputsHash": "d8802cb5a64740df2ca58b4ed5801c25872675ef225f09e5fa2530c6a60e4bd4",
+  "inputsHash": "bad272a550ff26e55b6a4263721da1835dbbec2e0ba148b5544aeebf54952c0f",
   "inputs": {
     "CHARACTER.md": "61ed57825e8f36f0c84d5d78701d267282bf32443b2d09c08193b27675389e9a",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
     "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "1ffaf81acf0fea1b2fb6f0f1c221e1b281fd97ff127c0157a8068cb378022a35",
-    "history.jsonl": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
     "changelog": "8dcd790cb18527923c2cb68d1479d652590d8df0f1066a3456d8c232e2010442"
   },
   "identity": {
@@ -34,7 +34,15 @@
       "provider": null,
       "voice": null
     },
-    "samples": []
+    "samples": [
+      {
+        "line": "[MUSIC: A single lute plays the opening melody of \"Not Enough Time.\"] [MUSIC: The orchestra grows.] [MUSIC: A plaintive violin enters.] [MUSIC: Full strings swell into the chorus of \"Not Enough Time,\" sung by the machine's own voice, about 40 seconds.] [MUSIC: The chorus climbs again, louder.] [MUSIC: Stops dead. SFX: A tiny mechanical click.] [MUSIC: The \"Not Enough Time\" melody returns, softer, solo lute.] [MUSIC: The orchestra takes the explanation out of his mouth.",
+        "source": "history/appearances/E01-v1.md",
+        "idea": null,
+        "episode": "E01",
+        "at": "2026-10-27"
+      }
+    ]
   },
   "record": {
     "runs": 0,
@@ -43,7 +51,14 @@
     "ideas": [],
     "episodes": [],
     "patronsServed": 0,
-    "appearances": []
+    "appearances": [
+      {
+        "id": "E01-v1",
+        "episode": "E01",
+        "at": "2026-10-27",
+        "file": "history/appearances/E01-v1.md"
+      }
+    ]
   },
   "relationships": [
     {
