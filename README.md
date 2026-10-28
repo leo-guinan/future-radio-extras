@@ -27,3 +27,5 @@ about them that people vote for. The producer decides. Promotion moves their fol
 with its full git history, into a repo of their own, and leaves a forwarding note here.
 
 Part of [Future Radio](https://github.com/OWNER/future-radio-writers-room), made in public.
+
+License: [CC0 1.0](LICENSE). Public domain; use it, change it, ship it.
