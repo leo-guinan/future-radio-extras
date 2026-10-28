@@ -51,9 +51,13 @@ Leonardo's cat, in the workshop in Florence, 1504. She never speaks: she purrs a
 
 Also called: the research cat
 
+## How you have sounded
+
+- "[SFX: Radio static. A dial hunting through noise."
+
 ## What you have done
 
-You have worked 0 time(s) in the writers' room.
+You have appeared in E01. You have worked 0 time(s) in the writers' room.
 
 ## This conversation
 
