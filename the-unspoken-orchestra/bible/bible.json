@@ -1,0 +1,69 @@
+{
+  "bibleVersion": 1,
+  "character": "the-unspoken-orchestra",
+  "name": "The Unspoken Orchestra",
+  "inputsHash": "d8802cb5a64740df2ca58b4ed5801c25872675ef225f09e5fa2530c6a60e4bd4",
+  "inputs": {
+    "CHARACTER.md": "61ed57825e8f36f0c84d5d78701d267282bf32443b2d09c08193b27675389e9a",
+    "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
+    "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "voice/voice.json": "1ffaf81acf0fea1b2fb6f0f1c221e1b281fd97ff127c0157a8068cb378022a35",
+    "history.jsonl": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "changelog": "8dcd790cb18527923c2cb68d1479d652590d8df0f1066a3456d8c232e2010442"
+  },
+  "identity": {
+    "intro": "Leonardo built a machine to say what he means when his words are too slow. It plays what\ncharacters mean, not what they say, and it insists on singing — in a tenor voice better than\nhis.\n\nAlso called: the orchestra, the machine's voice",
+    "job": "",
+    "constraints": "",
+    "conflict": "",
+    "other": {
+      "its grammar": "Speech is what a character chooses to say. Song is what they struggle to express.\nInstrumental is what they don't yet have words for. When the orchestra plays, it is\ncommenting; it never sits under ordinary talk.",
+      "where it's turned up": "- **E01, released.** Takes over when Leonardo says he isn't worried: lute, a plaintive violin,\n  then the chorus of \"Not Enough Time\" until he admits he's terrified of dying with a thousand\n  unfinished ideas — then stops dead. Later it takes his technical explanation out of his mouth\n  and sings \"Make It With Me.\" Plays a quiet, unresolved melody under Agnolo's bill.\n- **The Infinite Overture.** \"Not Enough Time\" (Leonardo) and \"Not Enough Lives\" (Borges)\n  share one musical structure. D minor, 92 BPM.",
+      "what we don't know yet": "- Whether it is a device or a someone. (\"It has opinions.\")\n- Whether it plays for anyone besides Leonardo.\n- What it would sing about Agnolo.",
+      "how it'd earn a dressing room": "If people like it — or if it starts having opinions of its own."
+    }
+  },
+  "canon": {
+    "notes": [],
+    "viewerNotes": []
+  },
+  "voice": {
+    "settings": {
+      "character": "the-unspoken-orchestra",
+      "provider": null,
+      "voice": null
+    },
+    "samples": []
+  },
+  "record": {
+    "runs": 0,
+    "firstSeen": null,
+    "lastSeen": null,
+    "ideas": [],
+    "episodes": [],
+    "patronsServed": 0,
+    "appearances": []
+  },
+  "relationships": [
+    {
+      "name": "Leonardo",
+      "mentions": 4
+    },
+    {
+      "name": "Agnolo",
+      "mentions": 2
+    },
+    {
+      "name": "Borges",
+      "mentions": 1
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Future Radio Room",
+      "subject": "Open The Unspoken Orchestra's folder in the extras"
+    }
+  ]
+}
