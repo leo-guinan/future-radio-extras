@@ -2,7 +2,7 @@
   "bibleVersion": 1,
   "character": "yuria",
   "name": "Yuria",
-  "inputsHash": "1b58344f129a602673fb5b9fbb8995d9cbb66007cd54618656933e7aabf8bffa",
+  "inputsHash": "e852b5f32df8c003037f754fb0bd39ec4742bf07e0e5ac5b3ccd23e3ff0b832b",
   "inputs": {
     "CHARACTER.md": "133b0da2130c1a3aee36c79182b134c8f18c4900cdb579234999ed2576d296f5",
     "SHOW_BIBLE.md": "5925aed3de53841df45fbb3de40cd92468fdc48eb9ea46a9f7493c1088d16aa6",
@@ -11,7 +11,7 @@
     "voice/voice.json": "025a91bf7ec3c31b782a1c081fb1a80dd5145cfcd34424edbe68a619a466ff8a",
     "voice/agent.json": "d5a21b786076401730e928ce543ecdc624cfd010992c6852b5ef7ba507550363",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "1ef9b39b3c99ee49aa2d2f5aec84464dc649425deee81b370f7db82fee54bb80"
+    "changelog": "69cfba742c46d4fabd74520789e5a9a8b8bb9e1c3382716c9d50ad5cacb8bfb1"
   },
   "identity": {
     "intro": "A modern voice on the future side of the radio. She keeps turning up, and nobody has told\nher story yet.\n\nAlso called: the listener in the static, the announcer",
@@ -72,6 +72,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Claude",
+      "subject": "Voice agent from the character bible"
+    },
     {
       "date": "2026-10-28",
       "author": "Future Radio Room",
