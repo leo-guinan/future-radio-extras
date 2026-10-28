@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "the-unspoken-orchestra",
   "name": "The Unspoken Orchestra",
-  "inputsHash": "7161486727805f08e06d7cae0a824686ab8a21f00cd4d23287c7542828cf6b95",
+  "inputsHash": "95fe96bc21d509185dc67014250c73cb0455f1c90aee3da5f05d2a408c92cef1",
   "inputs": {
     "CHARACTER.md": "61ed57825e8f36f0c84d5d78701d267282bf32443b2d09c08193b27675389e9a",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
-    "memory/notes.md": "dc3194248de3e9fe9f9df9d9f1979fb3fb8c6a637c6eeb357b961c4dd949e6a5",
+    "memory/notes.md": "29de3a266b67edacde3ed2d2855e68a4ea3f149be56429b1a303875236123a43",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "1ffaf81acf0fea1b2fb6f0f1c221e1b281fd97ff127c0157a8068cb378022a35",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "f2e9d2b6963545ec729fccd9b30b2cd4ecede7da3f4409c0088886a9ff094d1f"
+    "changelog": "172ffb3efb776e4e16972551821b687c334b9a957cafea0007cc8ba510671526"
   },
   "identity": {
     "intro": "Leonardo built a machine to say what he means when his words are too slow. It plays what\ncharacters mean, not what they say, and it insists on singing — in a tenor voice better than\nhis.\n\nAlso called: the orchestra, the machine's voice",
@@ -26,7 +26,8 @@
   },
   "canon": {
     "notes": [
-      "2026-10-28 — Leonardo built it to say what he means when his words are too slow. It has opinions, and insists on singing, in a tenor voice better than his. _(source: E01 v1, as released)_"
+      "2026-10-28 — Leonardo built it to say what he means when his words are too slow. It has opinions, and insists on singing, in a tenor voice better than his. _(source: E01 v1, as released)_",
+      "2026-10-28 — In E01 it sings the chorus of \"Not Enough Time\" until Leonardo admits his fear, then stops dead; later it turns his technical explanation into \"Make It With Me.\" _(source: E01 v1, as released)_"
     ],
     "viewerNotes": []
   },
@@ -77,6 +78,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Future Radio Room",
+      "subject": "the-unspoken-orchestra: remember — In E01 it sings the chorus of \"Not Enough Time\" until Leonar"
+    },
     {
       "date": "2026-10-28",
       "author": "Future Radio Room",
