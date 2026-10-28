@@ -1,0 +1,31 @@
+name: Character bibles
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npx --yes github:leo-guinan/future-radio-character-bible check-each . --base origin/${{ github.base_ref }}
+  rebuild:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npx --yes github:leo-guinan/future-radio-character-bible build-each .
+      - run: |
+          git config user.name "character-bible"
+          git config user.email "bible@future.radio"
+          git add -A -- '*/bible'
+          git diff --cached --quiet || (git commit -m "Rebuild the extras' character bibles" && git push)

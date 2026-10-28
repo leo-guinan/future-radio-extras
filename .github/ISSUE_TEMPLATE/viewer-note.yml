@@ -1,0 +1,24 @@
+name: Viewer note
+description: Suggest something about one of the extras after watching or talking with them
+title: "Viewer note: "
+labels: ["viewer-note"]
+body:
+  - type: input
+    id: extra
+    attributes: { label: Which extra?, placeholder: Yuria }
+    validations: { required: true }
+  - type: input
+    id: from
+    attributes: { label: How should we credit you?, placeholder: a name, a handle, or anonymous }
+    validations: { required: true }
+  - type: input
+    id: episode
+    attributes: { label: Which episode or conversation?, placeholder: E01, or "local chat" }
+  - type: textarea
+    id: experience
+    attributes: { label: What did you experience? }
+    validations: { required: true }
+  - type: textarea
+    id: note
+    attributes: { label: What should be true about them from now on? }
+    validations: { required: true }

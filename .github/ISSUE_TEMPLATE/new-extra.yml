@@ -1,0 +1,19 @@
+name: New extra
+description: Someone keeps turning up in Future Radio without a folder of their own
+title: "New extra: "
+labels: ["new-extra"]
+body:
+  - type: input
+    id: name
+    attributes: { label: Who?, placeholder: the voice in the static, the cat, Dennis }
+    validations: { required: true }
+  - type: textarea
+    id: where
+    attributes: { label: Where have they appeared?, description: Episodes, scenes, timestamps. }
+    validations: { required: true }
+  - type: textarea
+    id: known
+    attributes: { label: What do we know about them? }
+  - type: input
+    id: from
+    attributes: { label: How should we credit you? }
