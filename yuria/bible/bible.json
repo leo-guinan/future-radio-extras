@@ -2,14 +2,14 @@
   "bibleVersion": 1,
   "character": "yuria",
   "name": "Yuria",
-  "inputsHash": "0fb8d76f1e1ed38727da078349833e48b8a94c61c2deaaae059d716a34f95c8d",
+  "inputsHash": "2f3942abf5d96290d44e74545afaa41562a5295dcfcbbdcdf8d1cfa147e2ac3d",
   "inputs": {
     "CHARACTER.md": "133b0da2130c1a3aee36c79182b134c8f18c4900cdb579234999ed2576d296f5",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
     "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "025a91bf7ec3c31b782a1c081fb1a80dd5145cfcd34424edbe68a619a466ff8a",
-    "history.jsonl": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
     "changelog": "da24b79fb5d9be77a0594caa433359d30811435e40bbf59f38a749f145c15a2a"
   },
   "identity": {
@@ -35,7 +35,15 @@
       "id": "vGfq3y2g8QTWjuUhrNYc",
       "kind": "library"
     },
-    "samples": []
+    "samples": [
+      {
+        "line": "—no, leave it on. I like this one.",
+        "source": "history/appearances/E01-v1.md",
+        "idea": null,
+        "episode": "E01",
+        "at": "2026-10-27"
+      }
+    ]
   },
   "record": {
     "runs": 0,
@@ -44,7 +52,14 @@
     "ideas": [],
     "episodes": [],
     "patronsServed": 0,
-    "appearances": []
+    "appearances": [
+      {
+        "id": "E01-v1",
+        "episode": "E01",
+        "at": "2026-10-27",
+        "file": "history/appearances/E01-v1.md"
+      }
+    ]
   },
   "relationships": [
     {

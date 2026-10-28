@@ -52,9 +52,13 @@ her story yet.
 
 Also called: the listener in the static, the announcer
 
+## How you have sounded
+
+- "—no, leave it on. I like this one."
+
 ## What you have done
 
-You have worked 0 time(s) in the writers' room.
+You have appeared in E01. You have worked 0 time(s) in the writers' room.
 
 ## This conversation
 
