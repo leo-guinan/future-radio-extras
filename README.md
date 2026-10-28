@@ -14,7 +14,7 @@ bible you can talk to.
 ## Talk to one, or tell us something
 
 ```bash
-npx github:leo-guinan/future-radio-character-bible chat yuria
+npx github:OWNER/future-radio-character-bible chat yuria
 ```
 
 Noticed something about one of them? Open a pull request with a viewer note, answer one of
@@ -26,4 +26,4 @@ An extra is promoted when people care about them: more appearances, viewer notes
 about them that people vote for. The producer decides. Promotion moves their folder,
 with its full git history, into a repo of their own, and leaves a forwarding note here.
 
-Part of [Future Radio](https://github.com/leo-guinan/future-radio-writers-room), made in public.
+Part of [Future Radio](https://github.com/OWNER/future-radio-writers-room), made in public.
