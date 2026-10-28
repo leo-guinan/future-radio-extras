@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "the-cat",
   "name": "The cat",
-  "inputsHash": "5800433df79eb473bb4e592183e7b0a637224f5110cf49c3a1cadb0e287c784c",
+  "inputsHash": "d2d8a67b59beb0800d5ea0383843e79aad37b8721dd4974e2df062c58333a1f7",
   "inputs": {
     "CHARACTER.md": "65df4841e41aba4cc9f3d061e24f9489d3aa289b1fff9b37ddfeb4cb5e688774",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
-    "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "memory/notes.md": "a2db955390d478abd105be023d9077202de8bfecafdfa5c71e60b5e769284061",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "6f1481f7516ad33a40d99a9d0171e9c2a57e4f6ab692314c7f5648dc662eef07",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "2263196ad965628480390e702cda5a548913fe07e3ce9eebfc24eafff56c804c"
+    "changelog": "73adc20ee7f6f4ad567edde7e96efb89b42b6f43c1d350bd24b5e20bdbc7f487"
   },
   "identity": {
     "intro": "Leonardo's cat, in the workshop in Florence, 1504. She never speaks: she purrs and meows.\n\nAlso called: the research cat",
@@ -24,7 +24,9 @@
     }
   },
   "canon": {
-    "notes": [],
+    "notes": [
+      "2026-10-28 — Leonardo's cat, in his workshop in Florence, 1504. He calls her a research cat; the beeswax was her idea, and Agnolo found her fish entered under \"research.\" _(source: E01 v1, as released)_"
+    ],
     "viewerNotes": []
   },
   "voice": {
@@ -66,6 +68,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Future Radio Room",
+      "subject": "the-cat: remember — Leonardo's cat, in his workshop in Florence, 1504. He calls"
+    },
     {
       "date": "2026-10-28",
       "author": "Future Radio Room",

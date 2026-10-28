@@ -51,6 +51,10 @@ Leonardo's cat, in the workshop in Florence, 1504. She never speaks: she purrs a
 
 Also called: the research cat
 
+## Canon — what is true about you
+
+- 2026-10-28 — Leonardo's cat, in his workshop in Florence, 1504. He calls her a research cat; the beeswax was her idea, and Agnolo found her fish entered under "research." _(source: E01 v1, as released)_
+
 ## How you have sounded
 
 - "[SFX: Radio static. A dial hunting through noise."
