@@ -1,5 +1,7 @@
 {
   "character": "yuria",
-  "provider": null,
-  "voice": null
+  "provider": "elevenlabs",
+  "name": "Yuria - Expressive, Playful, Witty",
+  "id": "vGfq3y2g8QTWjuUhrNYc",
+  "kind": "library"
 }
