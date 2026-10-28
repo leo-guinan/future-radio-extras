@@ -8,7 +8,7 @@ bible you can talk to.
 | Extra | Who they seem to be | Released in |
 |---|---|---|
 | [The cat](the-cat/) | Leonardo's cat, in the workshop in Florence, 1504. She never speaks: she purrs and meows. | E01 |
-| [The Unspoken Orchestra](the-unspoken-orchestra/) | Leonardo built a machine to say what he means when his words are too slow. It plays what characters mean, not what they say, and it insists on singing — in a tenor voice better than his. | — |
+| [The Unspoken Orchestra](the-unspoken-orchestra/) | Leonardo built a machine to say what he means when his words are too slow. It plays what characters mean, not what they say, and it insists on singing — in a tenor voice better than his. | E01 |
 | [Yuria](yuria/) | A modern voice on the future side of the radio. She keeps turning up, and nobody has told her story yet. | E01 |
 
 ## Talk to one, or tell us something
