@@ -7,7 +7,7 @@ bible you can talk to.
 
 | Extra | Who they seem to be | Released in |
 |---|---|---|
-| — | Nobody yet | |
+| [Yuria](yuria/) | A modern voice on the future side of the radio. She keeps turning up, and nobody has told her story yet. | — |
 
 ## Talk to one, or tell us something
 

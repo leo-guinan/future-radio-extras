@@ -1,0 +1,60 @@
+{
+  "bibleVersion": 1,
+  "character": "yuria",
+  "name": "Yuria",
+  "inputsHash": "43f0b130c5b6ab521a72b4cbabe5ae778ffa837c3887b920b7fbd0ad08ba27a7",
+  "inputs": {
+    "CHARACTER.md": "133b0da2130c1a3aee36c79182b134c8f18c4900cdb579234999ed2576d296f5",
+    "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
+    "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "voice/voice.json": "e356e41004b1486b916cb436256715c7127114fc30e7a3f55ddca746e08918ad",
+    "history.jsonl": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "changelog": "9828cf9affbfcf9c0bff5456b70d3f966c58c71f47d270bb1c345ffda329b212"
+  },
+  "identity": {
+    "intro": "A modern voice on the future side of the radio. She keeps turning up, and nobody has told\nher story yet.\n\nAlso called: the listener in the static, the announcer",
+    "job": "",
+    "constraints": "",
+    "conflict": "",
+    "other": {
+      "where she's turned up": "- **E01, released.** Credited as \"the listener in the static.\" Leonardo's machine catches her\n  mid-sentence, talking to someone in her own room: \"—no, leave it on. I like this one.\" It is\n  his first proof that someone is there.\n- **The Infinite Overture.** The same voice says \"That's the one I want to see\" in the earlier\n  film-opening work (per the Episode 001 production doc's cast table).\n- **E10, planned, not released.** Announces Episode 10 as the second broadcast (scene E10-02),\n  and invites a listener to describe a song that doesn't exist yet (E10-15).",
+      "what we don't know yet": "- Whether the listener in E01 and the announcer in E10 are the same person, or one voice\n  playing two people.\n- Who she was talking to, and what made her leave it on.\n- When she is.\n- Whether she knows she's on the radio.",
+      "how she'd earn a dressing room": "If people like her: more appearances, viewer notes about her, ideas about her that people vote\nfor. The producer decides, and her history moves with her."
+    }
+  },
+  "canon": {
+    "notes": [],
+    "viewerNotes": []
+  },
+  "voice": {
+    "settings": {
+      "character": "yuria",
+      "provider": null,
+      "voice": null
+    },
+    "samples": []
+  },
+  "record": {
+    "runs": 0,
+    "firstSeen": null,
+    "lastSeen": null,
+    "ideas": [],
+    "episodes": [],
+    "patronsServed": 0,
+    "appearances": []
+  },
+  "relationships": [
+    {
+      "name": "Leonardo",
+      "mentions": 1
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Future Radio Room",
+      "subject": "Open Yuria's folder in the extras"
+    }
+  ]
+}
