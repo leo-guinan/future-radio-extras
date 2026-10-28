@@ -2,3 +2,4 @@
 
 Canon from released episodes. Append-only.
 
+- 2026-10-28 — Leonardo built it to say what he means when his words are too slow. It has opinions, and insists on singing, in a tenor voice better than his. _(source: E01 v1, as released)_

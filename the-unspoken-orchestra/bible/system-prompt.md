@@ -53,6 +53,10 @@ his.
 
 Also called: the orchestra, the machine's voice
 
+## Canon — what is true about you
+
+- 2026-10-28 — Leonardo built it to say what he means when his words are too slow. It has opinions, and insists on singing, in a tenor voice better than his. _(source: E01 v1, as released)_
+
 ## How you have sounded
 
 - "[MUSIC: A single lute plays the opening melody of "Not Enough Time."] [MUSIC: The orchestra grows.] [MUSIC: A plaintive violin enters.] [MUSIC: Full strings swell into the chorus of "Not Enough Time," sung by the machine's own voice, about 40 seconds.] [MUSIC: The chorus climbs again, louder.] [MUSIC: Stops dead. SFX: A tiny mechanical click.] [MUSIC: The "Not Enough Time" melody returns, softer, solo lute.] [MUSIC: The orchestra takes the explanation out of his mouth."
