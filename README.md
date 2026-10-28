@@ -7,7 +7,8 @@ bible you can talk to.
 
 | Extra | Who they seem to be | Released in |
 |---|---|---|
-| [Yuria](yuria/) | A modern voice on the future side of the radio. She keeps turning up, and nobody has told her story yet. | — |
+| [The cat](the-cat/) | Leonardo's cat, in the workshop in Florence, 1504. She never speaks: she purrs and meows. | — |
+| [Yuria](yuria/) | A modern voice on the future side of the radio. She keeps turning up, and nobody has told her story yet. | E01 |
 
 ## Talk to one, or tell us something
 
